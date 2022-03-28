@@ -1,5 +1,4 @@
-% Mustafa Barak - ID 2377570
-% HW1_Q1
+% Exercise_1
 
 % Welcome message and taking INPUT
 fprintf('Welcome to Egg Counter! Calculate the seconds required to cook an egg!\n');
